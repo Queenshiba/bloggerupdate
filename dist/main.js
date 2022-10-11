@@ -1,4 +1,4 @@
-import config from './config';
+// import config from './config.js';
 
 let BLOG_ID = config.BLOG_ID;
 let API_KEY = config.API_KEYY;
